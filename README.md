@@ -1,30 +1,30 @@
-<h1 align="center">Hi 👋, I'm Chakshu Madan</h1>
+<h1 align="center">Hi 👋, I'm Namrata Chavan</h1>
 <h3 align="center">A dedicated data professional, continuously enhancing expertise in data engineering and analysis.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chakshum&label=Profile%20views&color=0e75b6&style=flat" alt="chakshum" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Namratam&label=Profile%20views&color=0e75b6&style=flat" alt="Namratam" /> </p>
 
 - 🔭 **Currently pursuing a Post-Graduate Certificate in Big Data Analytics from Humber College, I am a Data Engineer with over 10 years of experience in backend development, data analysis, and software testing across various industries, specializing in banking and finance. I have received multiple awards for my contributions to risk analysis, data transformation, and building ETL data pipelines while working with multinational companies. Proficient in SQL, Python, and Azure, I have consistently delivered impactful insights and solutions.**
 
 - 🌱 I’m currently learning and enhancing my skills in Azure Data Factory, Microsoft Fabric, and Synapse to strengthen my expertise in data engineering and cloud-based solutions. **Studying Big Data Analytics at Humber College**
 
-- 👨‍💻 All of my projects are available at [Personal Projects](https://chakshum.github.io/ChakshuMadan.github.io/projects.html)
+- 👨‍💻 All of my projects are available at [Personal Projects](https://Namratam.github.io/NamrataMadan.github.io/projects.html)
 
-- 📫 How to reach me **madan.chakshu@gmail.com**
+- 📫 How to reach me **madan.Namrata@gmail.com**
 
-- 📄 Know about my experiences [Chakshu's Portfolio](https://chakshum.github.io/ChakshuMadan.github.io/resume.html) & [LinkedIn](https://www.linkedin.com/in/chakshumadan/)
+- 📄 Know about my experiences [Namrata's Portfolio](https://Namratam.github.io/NamrataMadan.github.io/resume.html) & [LinkedIn](https://www.linkedin.com/in/Namratamadan/)
 
 - ⚡ Fun fact **I enjoy meeting new people and learning about their experiences and stories.**
 
 <!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chakshum" alt="chakshum" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Namratam" alt="Namratam" /></a> </p>
 -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@chakshumad55643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chakshumad55643" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chakshumadan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chakshumadan/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/madan_chakshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@madan_chakshu" height="30" width="40" /></a>
-<a href="https://chakshum.github.io/ChakshuMadan.github.io/index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://chakshum.github.io/ChakshuMadan.github.io/index.html" height="30" width="40" /></a>
+<a href="https://twitter.com/@Namratamad55643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Namratamad55643" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Namratamadan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Namratamadan/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/madan_Namrata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@madan_Namrata" height="30" width="40" /></a>
+<a href="https://Namratam.github.io/NamrataMadan.github.io/index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://Namratam.github.io/NamrataMadan.github.io/index.html" height="30" width="40" /></a>
 </p>
 
 
@@ -51,8 +51,8 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakshum&show_icons=true&locale=en&layout=compact" alt="chakshum" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Namratam&show_icons=true&locale=en&layout=compact" alt="Namratam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakshum&show_icons=true&locale=en" alt="chakshum" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Namratam&show_icons=true&locale=en" alt="Namratam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakshum&" alt="chakshum" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Namratam&" alt="Namratam" /></p>
