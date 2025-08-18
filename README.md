@@ -1,41 +1,51 @@
-<h1 align="center">Hi 👋, I'm Namrata Chavan</h1>
-<h3 align="center">Data Engineer & Business Insights Analyst | Transforming raw data into actionable insights and scalable solutions</h3>
+# 👋 Hi, I'm Namrata
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NamrataChavan&label=Profile%20views&color=0e75b6&style=flat" alt="NamrataChavan" /> </p>
+**Data Analytics Professional | Business Intelligence Enthusiast | Deloitte Alumni**  
+📍 Toronto, Canada | 📧 Namratarafaymohammed365@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/Namratarafaymohammed365) | [Tableau Portfolio](https://public.tableau.com/app/profile/Namrata.rafay.mohammed2129/vizzes) | [GitHub](https://github.com/NamrataRafay365)
 
-- 🔭 **I am a Data Engineer with 3+ years of professional experience in data engineering, analytics, and business insights, currently pursuing a Postgraduate Certificate in Business Insights and Analytics from Humber College. I have successfully led 6+ large-scale data transformation projects at Cognizant, reducing data processing time by 30% and improving system efficiency by 25%. Developed 20+ automated dashboards to monitor vendor performance, enhancing reporting accuracy by 35% and saving 40% of manual reporting time. Skilled in SQL, Python, PySpark, Power BI, Azure, and AWS.**
+---
 
-- 🌱 **Currently enhancing expertise in Azure Data Factory, Microsoft Fabric, and Synapse Analytics to strengthen cloud-based data engineering and analytics capabilities.**
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [Personal Projects](https://NamrataChavan.github.io/projects.html)
+I'm a passionate Data Analytics Professional with a keen interest in **Predictive Analytics**, **Business Intelligence**, and **Data-Driven Decision Making**. With a foundation built at **Deloitte Consulting**, I bring hands-on experience in **machine learning**, **SQL**, **ETL pipelines**, and **dashboard development**.
 
-- 📫 How to reach me **namrata.chavan@example.com** | **+1-123-456-7890**
+💡 Certified **Professional Scrum Master I (PSM I)**  
+📊 Member of the **International Institute of Business Analysis (IIBA)**  
+📈 I love transforming raw data into stories that drive action and strategy.
 
-- 📄 Learn more about my professional journey [Portfolio](https://NamrataChavan.github.io/resume.html) & [LinkedIn](https://www.linkedin.com/in/namrata-chavan/)
+---
 
-- ⚡ Fun fact **I enjoy solving complex data problems, exploring automation opportunities, and translating insights into business value.**
+## 🧠 Key Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@YourTwitterHandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/namrata-chavan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/your-hackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-<a href="https://NamrataChavan.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
-</p>
+### 🔍 [Predicting Housing Prices with ML](https://github.com/NamrataRafay365/Predicting-Housing-Prices-with-ML)
+A comparative study of machine learning models like Decision Trees and Regression Models for predicting housing prices.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> </a> 
-<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="80" height="40"/> </a> 
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="100" height="40"/> </a> 
-<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache PySpark" width="50" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
-<a href="https://www.sqlserver.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="40"/> </a> 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="140" height="30"/> </a>
-<!-- Add other tools as needed -->
-</p>
+### 👥 [Customer Clustering with K-Means](https://github.com/NamrataRafay365/Customer-Clustering-with-K-Means)
+Segmented retail customers using **PCA** and **K-Means Clustering** to power personalized marketing strategies.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamrataChavan&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NamrataChavan&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NamrataChavan" alt="GitHub Streak" /></p>
+### 🛠️ [Data Warehouse Architecture in PostgreSQL](https://github.com/NamrataRafay365/Data-Warehouse-Architecture-and-ETL-in-PostgreSQL)
+Designed a full-stack **data warehouse** using **Medallion Architecture**, integrating ETL pipelines in **PostgreSQL**.
+
+### 💳 [Fraud Detection in Credit Card Transactions](https://github.com/NamrataRafay365/Fraud-Detection-in-Credit-Card-Transactions)
+Tested classification models to detect fraud, optimize precision, and reduce false positives in financial data.
+
+### 🎵 [Spotify SQL Analytics](https://github.com/NamrataRafay365/SpotifySQL)
+Used PostgreSQL to analyze song popularity, artist trends, and genres from Spotify data.
+
+### 🎬 [Netflix Business Problems in SQL](https://github.com/NamrataRafay365/NetflixSQL)
+Solved 15 real-world business problems using advanced SQL queries on Netflix data.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, R, SQL, PLpgSQL  
+- **Tools:** Tableau, Power BI, Jupyter, PostgreSQL, Excel, Git  
+- **Concepts:** Machine Learning, Statistical Analysis, ETL, Data Warehousing, Business Intelligence, Scrum & Agile  
+
+---
+
+## 📫 Let’s Connect!
+
+- Feel free to **reach out** if you're looking for a motivated analyst, want to collaborate, or just talk data!
