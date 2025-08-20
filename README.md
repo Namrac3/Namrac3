@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Namrata
 
-**Data Analytics Professional | Business Intelligence Enthusiast | Deloitte Alumni**  
-📍 Toronto, Canada | 📧 NamrataChavan365@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/NamrataChavan365) | [Tableau Portfolio](https://public.tableau.com/app/profile/Namrata.Chavan.Chavan2129/vizzes) | [GitHub](https://github.com/NamrataChavan365)
+**Data Engineering and Analytics Professional | Business Intelligence Enthusiast | Cognizant & Amazon Alumni**  
+📍 Toronto, Canada | 📧 namratachavan33@gmail.com  
+🔗 [LinkedIn]([https://www.linkedin.com/in/NamrataChavan365] | [Tableau Portfolio](https://public.tableau.com/app/profile/Namrata.Chavan.Chavan2129/vizzes) | [GitHub](https://github.com/Namrac3)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate Data Analytics Professional with a keen interest in **Predictive Analytics**, **Business Intelligence**, and **Data-Driven Decision Making**. With a foundation built at **Deloitte Consulting**, I bring hands-on experience in **machine learning**, **SQL**, **ETL pipelines**, and **dashboard development**.
+I'm a passionate Data Analytics Professional with a keen interest in **Predictive Analytics**, **Business Intelligence**, and **Data-Driven Decision Making**. With a foundation built at **Cognizant Technology Services** and **Amazon**, I bring hands-on experience in **Machine Learning**, **Microsoft Azure**, **SQL**, **ETL pipelines**, **AWS**, **Airflow**, **dbt**, and **Dashboard Development**.
 
-💡 Certified **Professional Scrum Master I (PSM I)**  
-📊 Member of the **International Institute of Business Analysis (IIBA)**  
-📈 I love transforming raw data into stories that drive action and strategy.
+💡 Certified **Microsoft Azure Data Engineer**  and **AWS Data Analytics Specialty**
+📊 Member of the **Data Management Association (DAMA) Toronto**  
+📈 I am passionate about transforming numbers into narratives
 
 ---
 
