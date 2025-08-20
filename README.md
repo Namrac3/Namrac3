@@ -2,7 +2,7 @@
 
 **Data Engineering and Analytics Professional | Business Intelligence Enthusiast | Cognizant & Amazon Alumni**  
 📍 Toronto, Canada | 📧 namratachavan33@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/NamrataChavan365] | [Tableau Portfolio](https://public.tableau.com/app/profile/Namrata.Chavan.Chavan2129/vizzes) | [GitHub](https://github.com/Namrac3)
+🔗 [LinkedIn][https://www.linkedin.com/in/namrata333] | [Tableau Portfolio](https://public.tableau.com/app/profile/Namrata.Chavan.Chavan2129/vizzes) | [GitHub](https://github.com/Namrac3)
 
 ---
 
