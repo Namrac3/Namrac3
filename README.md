@@ -48,4 +48,4 @@ Solved 15 real-world business problems using advanced SQL queries on Netflix dat
 
 ## 📫 Let’s Connect!
 
-- Feel free to **reach out** if you're looking for a motivated analyst, want to collaborate, or just talk data!
+- Feel free to **reach out** if you're looking for a motivated analyst, want to collaborate, or talk data!
