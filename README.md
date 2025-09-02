@@ -16,27 +16,6 @@ I'm a passionate Data Analytics Professional with a keen interest in **Predictiv
 
 ---
 
-## 🧠 Key Projects
-
-### 🔍 [Predicting Housing Prices with ML](https://github.com/NamrataChavan365/Predicting-Housing-Prices-with-ML)
-A comparative study of machine learning models like Decision Trees and Regression Models for predicting housing prices.
-
-### 👥 [Customer Clustering with K-Means](https://github.com/NamrataChavan365/Customer-Clustering-with-K-Means)
-Segmented retail customers using **PCA** and **K-Means Clustering** to power personalized marketing strategies.
-
-### 🛠️ [Data Warehouse Architecture in PostgreSQL](https://github.com/NamrataChavan365/Data-Warehouse-Architecture-and-ETL-in-PostgreSQL)
-Designed a full-stack **data warehouse** using **Medallion Architecture**, integrating ETL pipelines in **PostgreSQL**.
-
-### 💳 [Fraud Detection in Credit Card Transactions](https://github.com/NamrataChavan365/Fraud-Detection-in-Credit-Card-Transactions)
-Tested classification models to detect fraud, optimize precision, and reduce false positives in financial data.
-
-### 🎵 [Spotify SQL Analytics](https://github.com/NamrataChavan365/SpotifySQL)
-Used PostgreSQL to analyze song popularity, artist trends, and genres from Spotify data.
-
-### 🎬 [Netflix Business Problems in SQL](https://github.com/NamrataChavan365/NetflixSQL)
-Solved 15 real-world business problems using advanced SQL queries on Netflix data.
-
----
 
 ## 🛠️ Technical Skills
 
