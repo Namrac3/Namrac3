@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Namrata
 
 **Data Engineering and Analytics Professional | Business Intelligence and Analytics Enthusiast | Cognizant & Amazon Alumni**  
-📍 Toronto, Canada | 📧 namratachavan33@gmail.com  
+📍 Toronto, Canada 
+📧 namratachavan33@gmail.com  
 🔗 [LinkedIn][https://www.linkedin.com/in/namrata333] | 
 
 ## 🚀 About Me
