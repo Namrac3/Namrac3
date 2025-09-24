@@ -6,7 +6,7 @@
 
 📧 namratachavan33@gmail.com  
 
-🔗 LinkedIn https://www.linkedin.com/in/namrata333 
+🔗 https://www.linkedin.com/in/namrata333 
 
 ## 🚀 About Me
 
