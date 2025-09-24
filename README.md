@@ -1,13 +1,17 @@
 # 👋 Hi, I'm Namrata
 
 **Data Engineering and Analytics Professional | Business Intelligence and Analytics Enthusiast | Cognizant & Amazon Alumni**  
+
 📍 Toronto, Canada 
+
 📧 namratachavan33@gmail.com  
+
 🔗 LinkedIn https://www.linkedin.com/in/namrata333 
 
 ## 🚀 About Me
 
 I'm a passionate Data Analytics Professional with a keen interest in **Predictive Analytics**, **Business Intelligence**, and **Data-Driven Decision Making**. 
+
 With a foundation built at **Cognizant Technology Services** and **Amazon**, I bring hands-on experience in **Machine Learning**, **Microsoft Azure**, **SQL**, **ETL pipelines**, **AWS**, **Airflow**, **dbt**, and **Dashboard Development**.
 
 💡 Certified **Microsoft Azure Data Engineer**  and **AWS Data Analytics Specialty**
